@@ -39,11 +39,10 @@ Pour afficher les icônes qui ne sont pas présentent dans les images, vous util
 
 # Rendu 
 
-N’hésitez pas à rendre un travail incomplet même si vous avez eu l’un ou l’autre blocage, il y a des points à prendre partout...
+Ce contrat est à réaliser en binôme. Même si vous n'avez pas réussi à tout terminer, rendez ce vous avez fait !
 
-Vous rendrez un repo github contenant tous les fichiers du projet.
+Le rendu se fera sur Simplonline, avec lien de votre repository github.
 
-Si vous avez réaliser des bonus libres, indiquez-nous ce que vous avez fait dans un fichier bonus.txt que vous ajouterez dans votre fichier zip.
+Si vous avez réalisé des bonus, pensez à l'indiquer soit dans les commentaires sur Simplonline soit dans un fichier bonus.txt que vous ajouterez sur votre repository.
 
-Attention, les bonus ne seront évalués que si vous avez au moins 80% des points sur les
-spécifications minimales.
+Attention, les bonus ne seront évalués que si tout ce qui est à réaliser a été fait.
