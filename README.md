@@ -2,7 +2,7 @@
 
 # Introduction 
 
-Vous allez reproduire une maquette relativement basique en utilisant les media queries
+Vous allez reproduire une maquette d'une landing page en utilisant les media queries pour rendre le résultat responsive
 
 # Objectifs
 
@@ -19,7 +19,7 @@ Votre référence est le fichier [screenshot.png](screenshot.png)
 Votre template HTML contiendra plusieurs parties dans l'ordre :
 
 * une barre de navigation
-* un jumbotron ayant pour id ‘home’, contenant la première partie et son contenu
+* une div ayant pour id ‘home’, contenant la première partie et son contenu
 * une div ayant pour id ‘who’, contenant la seconde partie et son contenu
 * une div ayant pour id ‘get-involved’, contenant la troisième partie et son contenu
 * un footer
@@ -34,7 +34,7 @@ Pour afficher les icônes qui ne sont pas présentent dans les images, vous util
 
 # Bonus
 
-* Faire apparaître/disparaitre la barre de navigation au clique lors l'affichage sur smartphone.
+* Faire apparaître/disparaitre la barre de navigation au clic lors de l'affichage sur smartphone.
 * Créer la fonctionnalité 'back-to-top' : quand on clique sur la flèche, faire remonter au début de la page
 
 # Rendu 
