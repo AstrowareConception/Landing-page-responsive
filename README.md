@@ -23,14 +23,14 @@ Votre template HTML contiendra plusieurs parties dans l'ordre :
 * une div ayant pour id ‘who’, contenant la seconde partie et son contenu
 * une div ayant pour id ‘get-involved’, contenant la troisième partie et son contenu
 * un footer
-* une div ayant pour id 'back-to-top’ et contenant la flèche permettant de remonter au jumbotron
+* une div ayant pour id 'back-to-top’ fixé en bas à droite de l'écran et contenant la flèche permettant de remonter au début
 
 Votre site doit être responsive. Vous devrez redimensionner/replacer certaines choses. Voir les [screenshot-max1199.png](screenshot-max1199.png), [screenshot-max991.png](screenshot-max991.png) et [screenshot-max767.png](screenshot-max767.png)
 
 Pour l’affichage sur smartphone (max-width: 767px), votre barre de navigation ne doit afficher que le logo et une icône pour accéder au menu.
 
 Pour afficher les icônes qui ne sont pas présentent dans les images, vous utiliserez Font Awesome
-(http://fortawesome.github.io/Font-Awesome/) qui est déjà intégré au projet.
+(http://fortawesome.github.io/Font-Awesome/) qui est déjà intégré au projet. Vous apprendrez à les utiliser à l'aide des class "fa" et "fa-..." Voici un tuto : http://astronautweb.co/snippet/font-awesome/
 
 # Bonus
 
