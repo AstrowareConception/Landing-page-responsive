@@ -39,7 +39,7 @@ Pour afficher les icônes qui ne sont pas présentent dans les images, vous util
 
 # Rendu 
 
-Ce contrat est à réaliser en binôme. Même si vous n'avez pas réussi à tout terminer, rendez ce vous avez fait !
+Ce contrat est à réaliser en groupe de quatre. Même si vous n'avez pas réussi à tout terminer, rendez ce vous avez fait !
 
 Le rendu se fera sur Simplonline, avec lien de votre repository github.
 
